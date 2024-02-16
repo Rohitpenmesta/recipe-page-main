@@ -1,0 +1,70 @@
+body{
+   background-color: #f3e5d8 ;
+   font-family: "Outfit", sans-serif;
+   overflow-y: scroll ;
+   
+   
+}
+.main{
+
+width: 735px;
+height: fit-content;
+background-color: #ffffff;
+border-radius: 1rem;
+margin: auto;
+inset: 0;
+}
+
+img{
+    width: 95%;
+    height: 300px;
+    align-items: center;
+    padding-left: 1.5rem;
+    padding-top: 1.5rem;
+    border-radius: 2.5rem;
+}
+
+h1{
+    font-family:  "Young Serif", serif;;
+    padding-left: 2.5rem;
+}
+
+p{
+    text-align: left;
+    padding-left: 2.5rem;
+    padding-right: 1.25rem;
+}
+
+.time{
+    background-color: #fff7fc;
+    width: 660px;
+    height: 180px;
+    border-radius: 1rem;
+    margin-left: 1.85rem;
+    
+        
+}
+h4{
+    padding-top: 1rem;
+    padding-left: 1.25rem;
+}
+
+.content{
+    padding-left: 4rem;
+}
+
+.para{
+    padding: 1.25rem;
+    justify-content: space-between;
+    padding-bottom: 1.25rem;
+}
+hr{
+    width: 85%;
+}
+spam{
+    color:  #724136;
+}
+.nutri{
+    align-items: center;
+    padding-left: 50%;
+}
